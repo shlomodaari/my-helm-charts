@@ -5,4 +5,3 @@ metadata:
   namespace: {{ .Values.namespace }}
 spec:
   replicas: {{ .Values.spec.replicas }}
-  image: {{ .Values.spec.image }}
