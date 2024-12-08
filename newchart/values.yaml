@@ -3,4 +3,3 @@ namespace: default
 
 spec:
   replicas: 3
-  image: nginx:1.21.6
